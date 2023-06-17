@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4006974584",
+    "project_id": "loginbase-9ce63",
+    "storage_bucket": "loginbase-9ce63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4006974584:android:fd51b53ce242cf6da4498d",
+        "android_client_info": {
+          "package_name": "com.example.trangchu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4006974584-qtgjeqp5dq2hupmu3r3qnu1qe8bborhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trangchu",
+            "certificate_hash": "a001b0425f12a1ab2d1853d5e94c074eff0ff588"
+          }
+        },
+        {
+          "client_id": "4006974584-g66hksqa46ndjdr97p6k0c24kijsagct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePTjZjxgSO94mAGFakc1TRkxejx6eHEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4006974584-g66hksqa46ndjdr97p6k0c24kijsagct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
